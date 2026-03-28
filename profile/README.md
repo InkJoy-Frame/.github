@@ -17,7 +17,7 @@ The InkJoy Open API is designed to be:
 In fact, you can use AI tools to quickly build your own app and bring your ideas to life on an InkJoy Frame.
 
 👉 Start here:  
-https://app.inkjoyframe.com/statics/developer/
+[https://app.inkjoyframe.com/statics/developer/](https://openapi.inkjoyframe.com/)
 
 ---
 
